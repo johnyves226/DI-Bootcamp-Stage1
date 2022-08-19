@@ -85,3 +85,31 @@ section {
 .bloc{
     text-align: center;
 }
+
+.test{
+background-color: grey;
+    width: auto;
+    height: 60px;
+    position: relative;
+}
+
+.test1{
+    position: absolute;
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+}
+
+.test2{
+    position: relative;
+    left: 3px;
+    top: 3px;
+    background-color: orange;
+    width: 60px;
+    height: 60px;
+
+}
+
+.test2:hover{
+    background-color: darkred;
+}

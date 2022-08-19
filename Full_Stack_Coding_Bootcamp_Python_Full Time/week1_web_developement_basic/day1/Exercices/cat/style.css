@@ -1,0 +1,24 @@
+.cat{
+    text-align: center;
+}
+
+.lion{
+    text-align: center;
+}
+
+.media{
+    text-align: center;
+}
+.dif{
+    border: red solid 3px;
+    text-align: center;
+}
+
+img{
+    border: orange solid 5px;
+}
+
+th,td{
+    border: black solid 2px;
+    text-align: center;
+}
