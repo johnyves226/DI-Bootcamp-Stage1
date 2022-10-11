@@ -123,3 +123,25 @@ function compareNumbers(userNumber,computerNumber){
     }
 
 }
+
+
+//--------------------bonus-----------------------------------------//
+
+/*
+function playTheGame() {
+    if (!confirm("voulez-vous jouer a notre formidable jeux")) {
+        alert("No problem, Goodbye")
+    }
+    else {
+        do{
+            number = +prompt("veuillez entrer un numbre entre 0 et 10: ")
+        }while (isNaN(number))
+        if (number > 0 && number > 10) {
+            alert("Sorry it’s not a good number, Goodbye")
+        }
+        else {
+                computerNumber = (Math.ceil(Math.random() * 10))
+                compareNumbers(number, computerNumber)
+            }
+        }
+    }*/
